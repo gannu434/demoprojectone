@@ -2,4 +2,4 @@
 
 this is my first project
 <br>
-author ganesh jauk
+author - ganesh(sandip university)
